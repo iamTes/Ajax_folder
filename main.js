@@ -14,6 +14,7 @@ function getJson() {
                     <li>Name: ${data[i].name}</li>
                     <li>Job: ${data[i].job}</li>
                     <li>Status: ${data[i].Status}</li>
+                    <li>Status: ${data[i].gender}</li>
                   </ul>
                   `;
       }
